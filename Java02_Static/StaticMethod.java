@@ -1,4 +1,4 @@
-package Java01_Static;
+package Java02_Static;
 
 public class StaticMethod {
     static void display(){

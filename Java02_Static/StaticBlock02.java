@@ -1,9 +1,12 @@
-package Java01_Static;
+package Java02_Static;
 
 public class StaticBlock02 {
-    static{// this will execute before the constructor even we can say before object creation
+    static{
+        // this will execute before the constructor even we can say before object creation
         System.out.println("I am the owner of the Static block..");
     }
+    
+    //Constructor
     StaticBlock02(){
         System.out.println("I am the owner of the Constructor...");
     }
