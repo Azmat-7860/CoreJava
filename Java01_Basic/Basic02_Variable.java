@@ -1,4 +1,4 @@
-public class Variable {
+public class Basic02_Variable {
     public static void main(String[] args) {
         /*
          * Variables are noting but reserved memory location to store values.
